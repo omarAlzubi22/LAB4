@@ -3,7 +3,7 @@ Setup Instructions:
 1. Running the Flask Server
 The Flask server is defined in the file my-server.py. It runs locally on port 5000. To start the server:
 
-     First, ensure that the required dependencies (Flask) are installed in your Python environment. Then, open a terminal or command line and navigate to the directory where the my-server.py file is located. Run the file. Once the server is running, it will be accessible locally at 'http://localhost:5000.'
+     First, ensure that the required dependencies (Flask) are installed in your Python environment. Then, open a terminal or command line and navigate to the directory where the my-server.py file is located. Run the file. Once the server is running, it will be accessible locally at localhost:5000
 
 2. Running the Client Script
 The client script (my-calls.py) interacts with the running Flask server. It performs two operations:
